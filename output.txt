@@ -1,0 +1,61 @@
+Пункт 3 выполнен, выполняю ls -lR
+total 4
+dr-xrwx---  3 s367223  studs    6 14 окт.  15:04 archen3
+----r--rw-  2 s367223  studs   29 14 окт.  15:04 azumarill6
+-rw--w----  1 s367223  studs   74 14 окт.  15:04 breloom7
+lrwxr-xr-x  1 s367223  studs   10 14 окт.  15:04 Copy_40 -> scolipede3
+-r--------  1 s367223  studs   28 14 окт.  15:04 lanturn2
+-rw-r--r--  1 s367223  studs  140 14 окт.  15:04 lanturn2_33
+drwxr-x-w-  4 s367223  studs   15 14 окт.  15:04 onix2
+dr-x------  2 s367223  studs    7 14 окт.  15:04 scolipede3
+
+./archen3:
+total 2
+drwx--x--x  2 s367223  studs   3 14 окт.  15:04 gastrodon
+-rw-------  1 s367223  studs  45 14 окт.  15:04 jellicent
+-r-----r--  1 s367223  studs  35 14 окт.  15:04 zorua
+lrwxr-xr-x  1 s367223  studs   8 14 окт.  15:04 zoruabreloom -> breloom7
+
+./archen3/gastrodon:
+total 1
+-rwxr--r--  1 s367223  studs  29 14 окт.  15:04 azumarill6
+
+./onix2:
+total 7
+-rwxr--r--  1 s367223  studs   22 14 окт.  15:04 azumarill
+-rwxr--r--  1 s367223  studs   54 14 окт.  15:04 chinchou
+-rwxr--r--  1 s367223  studs  298 14 окт.  15:04 goldduck
+dr-x-w-r--  2 s367223  studs    2 14 окт.  15:04 lampent
+-rwxr--r--  1 s367223  studs   36 14 окт.  15:04 poliwag
+-r--r-----  1 s367223  studs  154 14 окт.  15:04 samurott
+-rwxr--r--  1 s367223  studs   39 14 окт.  15:04 slaking
+dr-x-w-r--  3 s367223  studs    3 14 окт.  15:04 swinub
+-rw-------  1 s367223  studs   57 14 окт.  15:04 whismur
+-rwxr--r--  1 s367223  studs   29 14 окт.  15:04 whismurazumarill
+-rw-rw-r--  1 s367223  studs  107 14 окт.  15:04 yamask
+----r--rw-  2 s367223  studs   29 14 окт.  15:04 yamaskazumarill
+-------rw-  1 s367223  studs  105 14 окт.  15:04 zoroark
+
+./onix2/lampent:
+total 0
+
+./onix2/swinub:
+total 1
+drwx------  2 s367223  studs  7 14 окт.  15:04 scolipede3
+
+./onix2/swinub/scolipede3:
+total 3
+-rwx---r--  1 s367223  studs  0 14 окт.  15:04 azumarill
+-rwx---r--  1 s367223  studs  0 14 окт.  15:04 chinchou
+-rwxr--r--  1 s367223  studs  0 14 окт.  15:04 golduck
+-rwxr--r--  1 s367223  studs  0 14 окт.  15:04 poliwag
+-rwx---r--  1 s367223  studs  0 14 окт.  15:04 slaking
+
+./scolipede3:
+total 3
+-rw--w-r--  1 s367223  studs  0 14 окт.  15:04 azumarill
+-------r--  1 s367223  studs  0 14 окт.  15:04 chinchou
+-rwxr--r--  1 s367223  studs  0 14 окт.  15:04 golduck
+-r--r--r--  1 s367223  studs  0 14 окт.  15:04 poliwag
+-------r--  1 s367223  studs  0 14 окт.  15:04 slaking
+ls -lR выполнено
